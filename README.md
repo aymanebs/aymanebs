@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Swipify**
 
-- 🌱 I’m currently learning **ReactJs,NestJs, NextJs**
+- 🌱 I’m currently learning **ReactJs,NestJs, NextJs, Angular**
 
 - 📫 How to reach me **aymane.bisdaoune@gmail.com**
 
